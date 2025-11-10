@@ -1,5 +1,5 @@
 // API Base URL
-const API_BASE_URL = 'http://localhost:8080/api/students';
+const API_BASE_URL = 'https://student-management-production-0962.up.railway.app/api/students';
 
 // Load students when page loads
 document.addEventListener('DOMContentLoaded', () => {
